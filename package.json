@@ -39,5 +39,19 @@
   },
   "engines": {
     "node": ">=20.0.0"
-  }
+  },
+  "version": "1.0.0",
+  "description": "- 📖 [Remix docs](https://remix.run/docs)",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jodypangaribuan/jody.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jodypangaribuan/jody/issues"
+  },
+  "homepage": "https://github.com/jodypangaribuan/jody#readme"
 }
